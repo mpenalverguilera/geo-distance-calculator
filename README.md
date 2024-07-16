@@ -16,7 +16,7 @@ This Python tool calculates the Haversine distance between cities based on their
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/GeoDistanceCalculator.git
+    git clone https://github.com/mpenalverguilera/geo-distance-calculator.git
     cd GeoDistanceCalculator
     ```
 
