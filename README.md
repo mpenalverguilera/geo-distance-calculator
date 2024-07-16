@@ -67,7 +67,7 @@ Install the dependencies using:
 
 ```sh
 pip install requests pandas
-
+```
 ## Future Improvements
 
 1. **Error Handling**: Implement more robust error handling, especially for network requests and file operations.
