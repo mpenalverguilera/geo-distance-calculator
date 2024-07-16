@@ -74,4 +74,3 @@ pip install requests pandas
 2. **Logging**: Instead of printing progress and errors to the console, consider using Python's `logging` module for better log management.
 3. **Configuration File**: Use a configuration file (e.g., JSON, YAML) for parameters like the API key and file paths instead of prompting the user each time.
 4. **Unit Tests**: Add unit tests to ensure the functions work correctly and to facilitate future changes.
-5. **API Rate Limiting**: Implement a more sophisticated method to handle API rate limits, possibly using an exponential backoff strategy.
