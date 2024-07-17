@@ -72,5 +72,4 @@ pip install requests pandas
 
 1. **Error Handling**: Implement more robust error handling, especially for network requests and file operations.
 2. **Logging**: Instead of printing progress and errors to the console, consider using Python's `logging` module for better log management.
-3. **Configuration File**: Use a configuration file (e.g., JSON, YAML) for parameters like the API key and file paths instead of prompting the user each time.
-4. **Unit Tests**: Add unit tests to ensure the functions work correctly and to facilitate future changes.
+3. **Unit Tests**: Add unit tests to ensure the functions work correctly and to facilitate future changes.
