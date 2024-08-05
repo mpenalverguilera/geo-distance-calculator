@@ -44,15 +44,18 @@ This Python tool calculates the Haversine distance between cities based on their
    - City name
    - Distance (initially empty)
 
-2. **Run the script:**
+2. **Fill the config file**
+    - Add the API key
+    - Change the I/O excel information if needed
+    - Change the origin if needed
+
+3. **Run the script:**
 
     ```sh
     python calculadora_distancies.py
     ```
 
-    You will be prompted to enter your API key for the Maps API.
-
-3. **Output:**
+4. **Output:**
    
    The script will generate a new Excel file with the calculated distances and log the cities that could not be found.
 
